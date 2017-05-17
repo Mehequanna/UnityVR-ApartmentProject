@@ -56,7 +56,7 @@ public class Teleporter : MonoBehaviour {
         if (viewer == null || cam == null) {
             return;
         }
-        // If the viewer pressed the cardboard button, then go to the next waypoint
+//         If the viewer pressed the cardboard button, then go to the next waypoint
         if (viewer.Triggered) {
             currentWaypointIndex = (currentWaypointIndex + 1) % waypoints.Length;
         }
