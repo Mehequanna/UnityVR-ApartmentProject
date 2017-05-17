@@ -6,6 +6,8 @@ This is a small VR project where the user will be able to explore a small apartm
 
 ![screenshot of project](apartmentvr.png)
 
+![screenshot of project](apartmentvr2.png)
+
 ## Submission Notes
 * This project uses Google VR SDK for Unity Version 1.0
 * I am submitting for iOS.
