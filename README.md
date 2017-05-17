@@ -6,6 +6,9 @@ This is a small VR project where the user will be able to explore a small apartm
 
 ![screenshot of project](apartmentvr.png)
 
+## Submission Notes
+* Submitting for iOS
+
 ## Technologies
 Unity, C#, Android Studio and Xcode (Used for deployment).
 Note: Google VR SDK was not used in this project.
