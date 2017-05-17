@@ -7,7 +7,10 @@ This is a small VR project where the user will be able to explore a small apartm
 ![screenshot of project](apartmentvr.png)
 
 ## Submission Notes
-* Submitting for iOS
+* I am submitting for iOS.
+* It took me 2 days to complete this project.
+* I enjoyed how easy it was to record an animation.
+* I found the auto-teleporting feature to be hard to get around. In the end, I decided to just keep it and move on.
 
 ## Technologies
 Unity, C#, Android Studio and Xcode (Used for deployment).
