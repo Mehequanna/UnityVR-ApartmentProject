@@ -7,14 +7,14 @@ This is a small VR project where the user will be able to explore a small apartm
 ![screenshot of project](apartmentvr.png)
 
 ## Submission Notes
+* This project uses Google VR SDK for Unity Version 1.0
 * I am submitting for iOS.
 * It took me 2 days to complete this project.
 * I enjoyed how easy it was to record an animation.
 * I found the auto-teleporting feature to be hard to get around. In the end, I decided to just keep it and move on.
 
 ## Technologies
-Unity, C#, Android Studio and Xcode (Used for deployment).
-Note: Google VR SDK was not used in this project.
+Unity, C#, Xcode (Used for deployment), and Google VR SDK for Unity Version 1.0
 
 ## Current Features
 * User will start in an apartment and look around.
